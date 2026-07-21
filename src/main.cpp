@@ -22,6 +22,7 @@ float vertices[] = {
 
 int main()
 {
+    printf("lol");
     // GLFW: Initialize and configure OpenGL context
     glfwInit();
     glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
