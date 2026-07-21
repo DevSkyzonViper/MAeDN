@@ -1,0 +1,6 @@
+/home/sky/Projects/MAeDN/build/CMakeFiles/glad_gl_core_33.dir
+/home/sky/Projects/MAeDN/build/CMakeFiles/Triangle.dir
+/home/sky/Projects/MAeDN/build/CMakeFiles/edit_cache.dir
+/home/sky/Projects/MAeDN/build/CMakeFiles/rebuild_cache.dir
+/home/sky/Projects/MAeDN/build/glad_cmake/CMakeFiles/edit_cache.dir
+/home/sky/Projects/MAeDN/build/glad_cmake/CMakeFiles/rebuild_cache.dir
