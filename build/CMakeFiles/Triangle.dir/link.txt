@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Triangle.dir/src/main.cpp.o -o Triangle  -lglfw libglad_gl_core_33.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -ldl 

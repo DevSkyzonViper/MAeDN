@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-53319a4d2589d8fb377d1e85600b7951 gladsources/glad_gl_core_33/include/KHR/khrplatform.h
